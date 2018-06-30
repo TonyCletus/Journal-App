@@ -32,7 +32,8 @@ Note: You'll need Android SDK version 27 and above, build tools 27.0, and the An
 My Journal App README contains details about the organization of the source code, and the relationship of this published source to the published app.
 
 <b>Find Me On</b> 
-Facebook: https://www.facebook.com/anthony.omojocletus
-Twitter: https://mobile.twitter.com/code_to_create
-Website: https://tonycletus.herokuapp.com
-YouTube: https://www.youtube.com/channel/UCxhnbOBe_irzwVO_COVdf2Q
+<ul>
+<li>Facebook: https://www.facebook.com/anthony.omojocletus</li>
+<li>Twitter: https://mobile.twitter.com/code_to_create</li>
+<li>Website: https://tonycletus.herokuapp.com</li>
+<li>YouTube: https://www.youtube.com/channel/UCxhnbOBe_irzwVO_COVdf2Q</li>
